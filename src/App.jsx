@@ -9,6 +9,7 @@ function App() {
     <div className="App">
       <h1>CloudFlare Pages</h1>
       <h2>CloudFlare Pages 2</h2>
+      <h2>CloudFlare Pages 3</h2>
     </div>
   )
 }
