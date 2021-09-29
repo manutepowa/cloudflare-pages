@@ -4,13 +4,15 @@
   "scripts": {
     "dev": "vite",
     "build": "vite build",
-    "serve": "vite preview"
+    "serve": "vite preview",
+    "co": "sui-mono commit"
   },
   "dependencies": {
     "react": "^17.0.0",
     "react-dom": "^17.0.0"
   },
   "devDependencies": {
+    "@s-ui/mono": "^2.18.0",
     "@vitejs/plugin-react": "^1.0.0",
     "vite": "^2.5.4"
   }
